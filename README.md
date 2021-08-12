@@ -2,7 +2,7 @@
 
 ## Patches
 
-- [lineheight](dwm.suckless.org/dmenu/patches/lineheight)
+- [lineheight](https://tools.suckless.org/dmenu/patches/line-height/)
 
 ## Remarks
 
