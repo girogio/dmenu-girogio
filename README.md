@@ -2,7 +2,8 @@
 
 ## Patches
 
-- [lineheight](https://tools.suckless.org/dmenu/patches/line-height/)
+- [/lineheight](https://tools.suckless.org/dmenu/patches/line-height/)
+- [/highpriority](https://tools.suckless.org/dmenu/patches/highpriority/)
 
 ## Remarks
 
