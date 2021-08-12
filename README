@@ -1,24 +1,9 @@
-dmenu - dynamic menu
-====================
-dmenu is an efficient dynamic menu for X.
+# dmenu-girogio
 
+## Patches
 
-Requirements
-------------
-In order to build dmenu you need the Xlib header files.
+- [lineheight](dwm.suckless.org/dmenu/patches/lineheight)
 
+## Remarks
 
-Installation
-------------
-Edit config.mk to match your local setup (dmenu is installed into
-the /usr/local namespace by default).
-
-Afterwards enter the following command to build and install dmenu
-(if necessary as root):
-
-    make clean install
-
-
-Running dmenu
--------------
-See the man page for details.
+This build of dmenu is made to complement best my own build of dwm which can be found [here](https://github.com/girogio/dwm-girogio).  
